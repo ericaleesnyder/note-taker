@@ -1,7 +1,7 @@
 [
-  {
-    "id": "abc123",
-    "title": "Test Title",
-    "text": "Test text"
-  }
+    {
+        "id": "abc123",
+        "title": "Test Title",
+        "text": "Test text"
+    }
 ]
