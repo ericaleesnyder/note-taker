@@ -8,5 +8,10 @@
         "id": "33587a6b-bb17-454f-b65e-ef61c23124f6",
         "title": "Grocery List",
         "text": "Eggs\nCoffee\nBagels\nLox"
+    },
+    {
+        "id": "da900731-897e-44b0-b535-ff925a805a08",
+        "title": "Repo Tasks",
+        "text": "save all files\ngit add -A\ngit commit -m \"message\"\ngit push origin main"
     }
 ]
